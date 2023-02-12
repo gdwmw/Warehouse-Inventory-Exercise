@@ -1,4 +1,5 @@
-<?php $host = "localhost";
+<?php
+$host = "localhost";
 $user = "root";
 $password = "";
 $dbname = "inventory";
